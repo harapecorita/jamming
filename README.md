@@ -2,6 +2,10 @@
 
 This project is a web application that interweaves interaction from multiple users to on-going musical performance. The objective here is to integrate several musical instances in a musical performance (e.g. DJ performance and laptop musical performance). In addition, this musical interface seeks inclusion of the audience as performers.
 
+### Why is this project called "jamming"?
+
+The name comes from the fact that the "jam" is constructed by the audience's musical score, "jamming" the main performance.
+
 ## Configuration / Context
 
 ![context](context.png)
